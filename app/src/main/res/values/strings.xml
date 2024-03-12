@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notificationPromptSimilarOfTwitch</string>
+    <string name="first_Text_View">Melted ice cream is uncool-just like missing your favorite service!</string>
+    <string name="turn_on_Button">Turn On Notifications</string>
+    <string name="Remind_Me_Later">Remind me later</string>
+    <string name="lastTextView">\t\tYou can change this anytime in the android Settings.</string>
+    <string name="fake_Twitch">Similar to Twitch NotificationPrompt</string>
+</resources>
