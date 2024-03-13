@@ -39,7 +39,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Twitch app:
 
-< img src='https://designvault.io/shot/1830-0901232059/' />
+https://designvault.io/shot/1830-0901232059/
 
 ## Video Demo
 
