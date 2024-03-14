@@ -45,7 +45,7 @@ https://designvault.io/shot/1830-0901232059/
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<https://www.loom.com/share/3aaa067d0d264559bacb6660bfc9dd4a?sid=244e188b-5fe5-4168-84ed-fe13a2e71fba />
 
 GIF created with **your chosen GIF tool**
 
