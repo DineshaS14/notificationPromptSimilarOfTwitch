@@ -64,10 +64,15 @@ It is for an app that **brief description**.
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this project, I have learned to make app layouts using constraintLayout so one layout works for multiple platforms.
+Then, I have applied a new image inside drawable, using imagewView.
+I have used 3 textViews to add in more texts as well as 2 buttons.
+One button is more visible with a different background color and the second button color matches the overall background. Therefore, you can not tell that both buttons are similar in shape. 
 
 ## License
-
+< https://designvault.io/shot/1830-0901232059/ />
+For the melted ice cream Picture 
+< https://www.istockphoto.com/photo/pink-ice-cream-melting-and-spilling-from-the-waffle-cone-minimalistic-summer-food-gm1362489449-434393145 />
 Copyright **yyyy** **your name**
 
 Licensed under the Apache License, Version 2.0 (the "License");
