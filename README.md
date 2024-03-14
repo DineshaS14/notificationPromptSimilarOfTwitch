@@ -73,7 +73,8 @@ One button is more visible with a different background color and the second butt
 < https://designvault.io/shot/1830-0901232059/ />
 For the melted ice cream Picture 
 < https://www.istockphoto.com/photo/pink-ice-cream-melting-and-spilling-from-the-waffle-cone-minimalistic-summer-food-gm1362489449-434393145 />
-Copyright **yyyy** **your name**
+
+Copyright **yyyy** Dinesha Shair
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
