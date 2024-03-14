@@ -1,15 +1,15 @@
 # notificationPromptSimilarToTwitch
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Your Name Here**
+Submitted by: Dinesha Shair
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+notificationPrompt is an android app that that I needed to make a layout of one screen similar to any app. I chose the notification Prompt since it was also available online to practice. 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🍎🍉🍇
 
 ## Application Features
 
